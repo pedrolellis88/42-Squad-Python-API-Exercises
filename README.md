@@ -25,7 +25,7 @@ Prerequisites
 Install dependencies
 ´´´bash
 pip install requests gspread google-auth
-´´´
+
 How to run
 1) exercicio1.py — Pokémon info (PokeAPI)
 
@@ -43,7 +43,7 @@ Run:
 
 ´´´bash
 python3 exercicio1.py
-´´´
+
 Example output (format may vary):
 ´´´text
 Name: Pikachu
@@ -52,7 +52,7 @@ Number in Pokédex: 25
 Type: Electric
 Weight: 6.0kg | 13.23lbs
 Description: ...
-´´´
+
 22) exercicio2.py — 42 projects progress (42 Intra API)
 
 What it does:
@@ -76,7 +76,7 @@ export FT42_UID="your_uid"
 export FT42_SECRET="your_secret"
 export FT42_LOGIN="pdiniz-l"
 python3 exercicio2.py
-´´´
+
 
 3) exercicio_bonus.py — Append Pokémon data to Google Sheets
 
@@ -100,7 +100,6 @@ Share your spreadsheet with the service account email (Editor permission)
 Run:
 ´´´bash
 python3 exercicio_bonus.py
-´´´
 
 Expected sheet columns appended:
 
