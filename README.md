@@ -23,7 +23,7 @@ Prerequisites
 -pip available
 
 Install dependencies
-´´´bash
+```bash
 pip install requests gspread google-auth
 
 How to run
