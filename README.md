@@ -151,6 +151,8 @@ weight_lbs (float)
 
 description (str, English flavor text)
 
+----------------------------------------------------------------------------------------------------------------
+
 Português:
 
 Este projeto foi criado como parte do currículo da 42 por <pdiniz-l>
