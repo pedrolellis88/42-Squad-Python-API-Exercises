@@ -1,4 +1,4 @@
-Este projeto foi criado como parte do currículo da 42 por <pdiniz-l>
+Este projeto foi criado como parte do currículo da 42 por **pdiniz-l**
 
 ## Descrição
 
@@ -139,6 +139,7 @@ get_pokemon_info(pokemon_name: str) -> dict | None
 * Normaliza o nome do Pokémon
 * Busca dados nos endpoints da PokeAPI (pokemon + pokemon-species)
 * Retorna None se o Pokémon não existir ou se a requisição falhar
+
 Caso contrário, retorna um dict com:
 
 * name (str)
