@@ -37,6 +37,7 @@ pip install requests gspread google-auth
 #### Consultas:
 
 `https://pokeapi.co/api/v2/pokemon/<name>`
+
 `https://pokeapi.co/api/v2/pokemon-species/<name>`
 
 Imprime nome, geração, número na Pokédex, tipos, peso (kg/lbs) e uma descrição em inglês.
@@ -197,6 +198,7 @@ Asks for a Pokémon name
 Queries:
 
 `https://pokeapi.co/api/v2/pokemon/<name>`
+
 `https://pokeapi.co/api/v2/pokemon-species/<name>`
 
 Prints name, generation, Pokédex number, types, weight (kg/lbs), and an English description.
